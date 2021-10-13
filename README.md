@@ -51,5 +51,6 @@ http://213.13.23.132/shls/LIVE%24Eleven_Sports_6_HD.CVL/index.m3u8?device=ANDROI
 
 
 EXTINF:-1 tvg-logo="" group-title="Desporto",
+https://nostv.pt/aminhatv/L3YyL215dHYvcm9vdA
 
 
